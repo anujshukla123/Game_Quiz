@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616054557 source:f:\c++\quiz\main.cpp
+	<iostream>
+	<conio.h>
+
